@@ -1,0 +1,4 @@
+google drive link to va_filtered_listings.csv.gz
+file too large to upload to github
+
+https://drive.google.com/file/d/19VmiwTAdmcgBKbImZtQDAL9In2_ClwfC/view?usp=drive_link
