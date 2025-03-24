@@ -47,7 +47,7 @@ git clone https://github.com/Kianjputnam/DS-4402-P2.git
 
 You can run the individual files locally (provided you follow the specifications listed in - [Software / Platform](##Software%20/%20Platform)) or can run them in **Rivanna** or **Google Colab**. All data files are provided, except for the Redfin data set, and all outputs will overwrite the output images or files will overwrite previously existing output files.
 
-* How to download the Redfin Data set: Go to the Redfin database[^fn2] and navigate to the `Redfin Monthly Housing Market Data` section. Click on the `download` tab in the chart and choose a format to download (prefferably excel). This should give a zip archive which can be filtered using `real_estate_initial_notebook.ipynb`
+* How to download the Redfin Data set: Go to the Redfin database[^fn2] and navigate to the `Redfin Monthly Housing Market Data` section. Click on the `download` tab in the chart and choose a format to download (prefferably excel). This should give a zip archive which can be filtered using `real_estate_initial_notebook.ipynb.` This file is almost **7GB** large.
 
 The scripts can be run in the order shown by their filenames. While this is not a strict requirements, note that some files need to be run before others in the order shown below
 
