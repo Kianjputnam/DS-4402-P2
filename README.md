@@ -1,6 +1,6 @@
 # DS4002 Project 2
 
-#### Kian Putnam, Tenzin Nargee, Visal Kamalakrishnan 
+#### Kian Putnam, Tenzin Nargee, Vishal Kamalakrishnan 
 
 ## Goal
 
